@@ -1,1 +1,2 @@
-# ai_notebooks
+# AI jupyter notebooks
+For fun
